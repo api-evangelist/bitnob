@@ -64,5 +64,163 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bitnob is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://bitnob.com/
+Bitnob Technologies Limited is a fintech platform focused on simplifying cross‑border Bitcoin payments and financial services across Africa and beyond. Founded in 2020, Bitnob offers a suite of products including wallet‑as‑a‑service, corporate treasury, node services, and payment processing, empowering businesses and individuals to send, receive, save, and manage Bitcoin with speed and transparency. The company emphasizes security, SOC & ISO certifications, and partnerships with licensed financial institutions to ensure compliance and trust.
+
+**Areas:** Company · Bitcoin · Payments · FinTech · API
+
+## Bitnob on APIs.io
+
+Everything profiled for Bitnob is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bitnob/](https://apis.io/providers/bitnob/)** — or go straight to one of the APIs or properties below.
+
+### APIs (31)
+
+- [Bitnob Addresses API](https://apis.io/apis/bitnob/bitnob-addresses-api/) — Crypto deposit addresses, for your company or for a customer.
+- [Bitnob Assets API](https://apis.io/apis/bitnob/bitnob-assets-api/) — The Assets API from Bitnob — 3 operation(s) for assets.
+- [Bitnob Authentication API](https://apis.io/apis/bitnob/bitnob-authentication-api/) — Check that your requests are signed correctly.
+- [Bitnob Balances API](https://apis.io/apis/bitnob/bitnob-balances-api/) — Wallet balances.
+- [Bitnob Banks API](https://apis.io/apis/bitnob/bitnob-banks-api/) — Banks and account lookups for payouts.
+- [Bitnob Beneficiaries API](https://apis.io/apis/bitnob/bitnob-beneficiaries-api/) — Saved payout recipients.
+- [Bitnob Cards API](https://apis.io/apis/bitnob/bitnob-cards-api/) — Virtual cards: issue, fund, withdraw, freeze, terminate, and the card KYC and corporate onboarding behind them. ## Card programs Every card belongs to one…
+- [Bitnob Customers API](https://apis.io/apis/bitnob/bitnob-customers-api/) — The people and businesses you serve. Creating and editing them needs the customers feature.
+- [Bitnob Exchange rates API](https://apis.io/apis/bitnob/bitnob-exchange-rates-api/) — Rates and conversions.
+- [Bitnob Gasstations API](https://apis.io/apis/bitnob/bitnob-gasstations-api/) — The Gasstations API from Bitnob — 4 operation(s) for gasstations.
+- [Bitnob Insights/estimate Network Fees API](https://apis.io/apis/bitnob/bitnob-insights-estimate-network-fees-api/) — The Insights/estimate-network-fees API from Bitnob — 1 operation(s) for insights/estimate-network-fees.
+- [Bitnob Kyt/categories API](https://apis.io/apis/bitnob/bitnob-kyt-categories-api/) — The Kyt/categories API from Bitnob — 1 operation(s) for kyt/categories.
+- [Bitnob Kyt/risk Profiles API](https://apis.io/apis/bitnob/bitnob-kyt-risk-profiles-api/) — The Kyt/risk-profiles API from Bitnob — 3 operation(s) for kyt/risk-profiles.
+- [Bitnob Lightning API](https://apis.io/apis/bitnob/bitnob-lightning-api/) — Lightning invoices and payments.
+- [Bitnob LNURL API](https://apis.io/apis/bitnob/bitnob-lnurl-api/) — Lightning addresses, LNURL withdraw links and LNURL payments.
+- [Bitnob Meta API](https://apis.io/apis/bitnob/bitnob-meta-api/) — The Meta API from Bitnob — 9 operation(s) for meta.
+- [Bitnob Nodes API](https://apis.io/apis/bitnob/bitnob-nodes-api/) — Blockchain node access.
+- [Bitnob Payouts API](https://apis.io/apis/bitnob/bitnob-payouts-api/) — Pay out to bank accounts and mobile money: quote, initialize, finalize.
+- [Bitnob Policies API](https://apis.io/apis/bitnob/bitnob-policies-api/) — The Policies API from Bitnob — 11 operation(s) for policies.
+- [Bitnob Rpc API](https://apis.io/apis/bitnob/bitnob-rpc-api/) — The Rpc API from Bitnob — 1 operation(s) for rpc.
+- [Bitnob Sponsored Transfers API](https://apis.io/apis/bitnob/bitnob-sponsored-transfers-api/) — The Sponsored-transfers API from Bitnob — 3 operation(s) for sponsored-transfers.
+- [Bitnob Subscriptions API](https://apis.io/apis/bitnob/bitnob-subscriptions-api/) — The Subscriptions API from Bitnob — 6 operation(s) for subscriptions.
+- [Bitnob Trading API](https://apis.io/apis/bitnob/bitnob-trading-api/) — Quotes and orders for buying and selling.
+- [Bitnob Transactions API](https://apis.io/apis/bitnob/bitnob-transactions-api/) — The Transactions API from Bitnob — 6 operation(s) for transactions.
+- [Bitnob Transfers API](https://apis.io/apis/bitnob/bitnob-transfers-api/) — Balance transfers between Bitnob organisations.
+- [Bitnob Users API](https://apis.io/apis/bitnob/bitnob-users-api/) — The Users API from Bitnob — 1 operation(s) for users.
+- [Bitnob Vaults API](https://apis.io/apis/bitnob/bitnob-vaults-api/) — The Vaults API from Bitnob — 2 operation(s) for vaults.
+- [Bitnob Virtual accounts API](https://apis.io/apis/bitnob/bitnob-virtual-accounts-api/) — Naira accounts that receive bank transfers, for your company or for a customer, and temporary KES and UGX accounts that collect one mobile money payment.
+- [Bitnob Wallets API](https://apis.io/apis/bitnob/bitnob-wallets-api/) — The Wallets API from Bitnob — 9 operation(s) for wallets.
+- [Bitnob Webhooks API](https://apis.io/apis/bitnob/bitnob-webhooks-api/) — The Webhooks API from Bitnob — 7 operation(s) for webhooks.
+- [Bitnob Withdrawals API](https://apis.io/apis/bitnob/bitnob-withdrawals-api/) — Crypto withdrawals.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Bitnob Agentic Access](https://apis.io/agentic-access/bitnob/bitnob-agentic-access/)
+
+#### JSON Schema (12)
+
+The data models the API reads and writes.
+
+- [CardsCreateRequest](https://apis.io/schemas/bitnob/bitnob-cards-create-request/)
+- [CardsInitiateKycRequest](https://apis.io/schemas/bitnob/bitnob-cards-initiate-kyc-request/)
+- [CreateTransactionRequest](https://apis.io/schemas/bitnob/bitnob-create-transaction-request/)
+- [GasStationResponse](https://apis.io/schemas/bitnob/bitnob-gas-station-response/)
+- [PayoutsCreateQuoteRequest](https://apis.io/schemas/bitnob/bitnob-payouts-create-quote-request/)
+- [PayoutsInitializeRequest](https://apis.io/schemas/bitnob/bitnob-payouts-initialize-request/)
+- [PublicEvaluateRequest](https://apis.io/schemas/bitnob/bitnob-public-evaluate-request/)
+- [PublicPolicyResponse](https://apis.io/schemas/bitnob/bitnob-public-policy-response/)
+- [SignatureResponse](https://apis.io/schemas/bitnob/bitnob-signature-response/)
+- [TradingSubmitOrderRequest](https://apis.io/schemas/bitnob/bitnob-trading-submit-order-request/)
+- [TransactionResponse](https://apis.io/schemas/bitnob/bitnob-transaction-response/)
+- [VirtualAccountsCreateRequest](https://apis.io/schemas/bitnob/bitnob-virtual-accounts-create-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Bitnob Context](https://apis.io/jsonld/bitnob/bitnob-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Bitnob API Rules](https://apis.io/rules/bitnob/bitnob-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bitnob Authentication](https://apis.io/security/bitnob/bitnob-authentication/)
+- [Bitnob Domain Security](https://apis.io/security/bitnob/bitnob-domain-security/)
+- [Bitnob Vulnerability Disclosure](https://apis.io/security/bitnob/bitnob-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bitnob.com/)
+- [Documentation](https://help.bitnob.com/)
+- [Getting started](https://www.bitnob.dev/docs/getting-started/about)
+- [API reference](https://www.bitnob.dev/llms.txt)
+- [Sign up](https://accounts.bitnob.com/auth/signup)
+- [Support](http://help.bitnob.com/)
+- [Blog](https://bitnob.com/en-US/resources/blog)
+- [Security](https://bitnob.com/bug-bounty-policy.md)
+- [Terms of service](https://bitnob.com/en-US/legal?tab=terms-of-service)
+- [Privacy policy](https://bitnob.com/en-US/legal?tab=privacy-policy)
+- [GitHub](https://github.com/bitnob)
+
+## API Evangelist rating
+
+**Kin Score 58.4** — strong · rubric 0.27.0 · scored 2026-11-16
+
+| Facet | Score |
+|---|---|
+| Discoverability | 67.9 |
+| Contract quality | 59.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 75.5 |
+| Access clarity | 34.2 |
+
+**Agent readiness 57.7** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 27.7** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bitnob/](https://apis.io/providers/bitnob/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bitnob: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bitnob/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
